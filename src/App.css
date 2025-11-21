@@ -2,13 +2,13 @@
   text-align: center;
 }
 
-body{
+/*body{
     background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
     background-size: 400% 400%;
     backdrop-filter: blur(100px);
     background-color: rgba(173, 255, 47, 0.2);
     animation: color 15s ease infinite;
-}
+}*/
 
 .App-logo {
   height: 40vmin;
